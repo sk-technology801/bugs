@@ -115,14 +115,7 @@ export default function Home() {
         </form>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-[#0b0b0b] text-gray-400 text-center py-6 mt-12">
-        <p>© {new Date().getFullYear()} Bug-Beyond – All rights reserved</p>
-        <div className="mt-3 flex justify-center gap-6 text-white">
-          <Link href="https://github.com/sk-technology801" target="_blank"><Github size={22} /></Link>
-          <Link href="https://www.linkedin.com/in/sk-technology-05080b338/" target="_blank"><Linkedin size={22} /></Link>
-        </div>
-      </footer>
+     
     </main>
   );
 }
