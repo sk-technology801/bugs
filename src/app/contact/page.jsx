@@ -132,10 +132,12 @@ export default function ContactPage() {
                 <p className="text-gray-400">
                   Email:{' '}
                   <Link
-                    href="mailto:contact@sk-technology801.com"
+                    href="mailto:saaddst21@gmail.com
+"
                     className="text-[#f97316] hover:text-[#22c55e] transition"
                   >
-                    contact@sk-technology801.com
+                    saaddst21@gmail.com
+
                   </Link>
                 </p>
               </div>
@@ -144,10 +146,10 @@ export default function ContactPage() {
                 <p className="text-gray-400">
                   Phone:{' '}
                   <Link
-                    href="tel:+1234567890"
+                    href="tel:+923084931083"
                     className="text-[#f97316] hover:text-[#22c55e] transition"
                   >
-                    +1 (234) 567-890
+                    +92 (308) 493-1083
                   </Link>
                 </p>
               </div>
